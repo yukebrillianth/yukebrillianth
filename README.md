@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+### Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/yukebrillianth/yukebrillianth/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### My name is Yuke Brilliant Hestiavin, I'm a student from Indonesia and I'm a Fullstack Developer (Android & Website), nice to meet you.
+<!--
+**yukebrillianth/yukebrillianth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are some ideas to get you started:
+-->
+- 🔭 I’m currently working on My Personal Projects
+- 🌱 I’m currently learning React.js, React Native, and Laravel Lumen Microservices
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/yukebrillianth/" target="_blank">LinkedIn</a> | <a href="https://www.instagram.com/yukebrillianth/">Instagram</a>
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukebrillianth&theme=algolia&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukebrillianth&theme=algolia&show_icons=true&layout=compact)](https://github.com/adventus-tms)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
+<!--
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yukebrillianth/yukebrillianth/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
