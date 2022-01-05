@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yukebrillianth/" target="_blank">LinkedIn</a> | <a href="https://www.instagram.com/yukebrillianth/">Instagram</a>
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukebrillianth&theme=algolia&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukebrillianth&theme=algolia&show_icons=true&layout=compact)](https://github.com/adventus-tms)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukebrillianth&theme=algolia&show_icons=true&layout=compact)
 
 
 ---
