@@ -7,7 +7,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on My Personal Projects
-- 🌱 I’m currently learning React.js, React Native, and Laravel Lumen Microservices
+- 🏆 National Champion in the MAGE9 App Development competition 2023 held by the ITS Computer Engineering Department
+- 🌱 I’m currently learning React.js, React Native, Nest.js, and Network Infrastructure
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yukebrillianth/" target="_blank">LinkedIn</a> | <a href="https://www.instagram.com/yukebrillianth/">Instagram</a> | <a href="https://yukebrillianth.my.id" target="_blank">Website</a>
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukebrillianth&theme=algolia&show_icons=true)
