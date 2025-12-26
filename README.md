@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yukebrillianth" alt="yukebrillianth" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yukebrillianth" target="blank"><img src="https://img.shields.io/twitter/follow/yukebrillianth?logo=twitter&style=for-the-badge" alt="yukebrillianth" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yukebrillianth" target="blank"><img src="https://img.shields.io/twitter/follow/yukebrillianth?logo=x&style=for-the-badge" alt="yukebrillianth" /></a> </p>
 
 - 🔭 I’m currently working on [BetaforU](https://www.linkedin.com/company/99302296/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2%2FvkSbmNTgWjTHFAFsLDlg%3D%3D)
 
