@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=yukebrillianth&show_icons=true&locale=en" alt="yukebrillianth" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=yukebrillianth&" alt="yukebrillianth" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yukebrillianth&" alt="yukebrillianth" /></p>
